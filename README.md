@@ -14,10 +14,11 @@ deploy:<br>
   repository: https://github.com/QDDLoveIT/QDDLoveIT.github.io<br>
   branch: master<br>
 ###source
-博客内容文件
+博客内容文件<br>
 ###themes
-主题文件(已下载`NexT`主题)
+主题文件(已下载`NexT`主题)<br>
 
+----
 ####hexo
 hexo g<br>
 hexo s<br>
