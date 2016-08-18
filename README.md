@@ -6,10 +6,20 @@ Blog备份文件
 ###_config.yml(根目录下)
 用于配置hexo<br>
 已修改参数:<br>
-                author: WanQiang<br>
-                language: zh-Hans<br>
+* author: WanQiang<br>
+* language: zh-Hans<br>
 增加deply链接:<br>
-        deploy:
-          type: git 
-          repository: https://github.com/QDDLoveIT/QDDLoveIT.github.io
-          branch: master
+deploy:<br>
+  type: git<br>
+  repository: https://github.com/QDDLoveIT/QDDLoveIT.github.io<br>
+  branch: master<br>
+###source
+博客内容文件
+###themes
+主题文件(已下载`NexT`主题)
+####hexo
+    hexo g
+    hexo s
+    hexo new post""
+    hexo clean
+    hexo d
