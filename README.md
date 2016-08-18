@@ -17,9 +17,10 @@ deploy:<br>
 博客内容文件
 ###themes
 主题文件(已下载`NexT`主题)
+
 ####hexo
-    hexo g
-    hexo s
-    hexo new post""
-    hexo clean
-    hexo d
+hexo g<br>
+hexo s<br>
+hexo new post""<br>
+hexo clean<br>
+hexo d<br>
