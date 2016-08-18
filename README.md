@@ -6,8 +6,8 @@ Blog备份文件
 ###_config.yml(根目录下)
 用于配置hexo<br>
 已修改参数:<br>
-        author: WanQiang<br>
-        language: zh-Hans<br>
+                author: WanQiang<br>
+                language: zh-Hans<br>
 增加deply链接:<br>
         deploy:
           type: git 
